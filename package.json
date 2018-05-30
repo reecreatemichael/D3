@@ -1,0 +1,11 @@
+{
+  "name": "d3",
+  "version": "1.0.0",
+  "description": "d3",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "me",
+  "license": "ISC"
+}
